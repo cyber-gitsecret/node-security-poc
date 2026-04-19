@@ -1,0 +1,9 @@
+{
+  "name": "vuln-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.15",
+    "serialize-javascript": "2.1.1"
+  }
+}
